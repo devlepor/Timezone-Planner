@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy for Timezone Planner
 
 Last updated: December 31, 2023
 
