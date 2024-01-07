@@ -2,7 +2,7 @@
 
 Last updated: January 7, 2024
 
-This Privacy Policy describes Our policies and procedures regarding the collection, use, and disclosure of Your information when You use the Service.
+This Privacy Policy describes our policies and procedures regarding the collection, use, and disclosure of Your information when You use the Service.
 
 **Data Collection by Third-Party Libraries:**
 While our application itself does not collect any personal or user data, it utilizes third-party libraries, specifically ["timezone"](https://pub.dev/packages/timezone), ["google_mobile_ads"](https://pub.dev/packages/google_mobile_ads) and ["flutter_local_notifications"](https://pub.dev/packages/flutter_local_notifications) packages obtained from [pub.dev](https://pub.dev/). These libraries may have their own data collection practices, and we encourage you to review their respective privacy policies to understand how they handle the information.
@@ -19,7 +19,7 @@ We have no control over and assume no responsibility for the content, privacy po
 
 ## Changes to this Privacy Policy:
 
-We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+We may update our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
